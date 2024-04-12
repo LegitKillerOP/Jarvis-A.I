@@ -1,0 +1,56 @@
+JARVIS CAN DO THESE THING:
+    Hello
+    Date
+    Time
+    Thankyou
+    Open maps
+    Search on Wikipedia
+    Open instagram profile and download pfp
+    Open any website
+    Weather
+    Open camera
+    Play a game
+    About Jarvis
+    Compliment me
+    Who created you
+    Calculate
+    Play music
+    Tell story
+    Notepad
+    Shutdown
+    Restart
+    Whatsapp Message
+    Set location
+    News
+    Open apps
+    Google anything
+    Find Recipe
+    Currency rate
+    Joke
+    Your location
+    Analyze Sentiment
+    Take Notes
+    Read Notes
+    Clear Notes
+    Edit Notes
+    Change username
+    Search on yt
+    Open file explorer
+    Quote
+    Fact
+    System info
+    Search on googlemaps
+    Battery Percentage
+    Internet speed
+    Define a word
+    Alarm
+    Timer
+    Close app
+    Switch window
+    Minimise window
+    Call on my phone
+    Volume control
+    lock screen
+    check phone number
+    horoscope
+    change system theme
